@@ -295,7 +295,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="copyright-text">
-Copyright <script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://www.facebook.com/profile.php?id=61574929151218" target="_blank">PoPoKids</a>
+                        Copyright <script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://www.facebook.com/profile.php?id=61574929151218" target="_blank">PoPoKids</a>
                     </div>
                     <div class="payment-pic">
                         <img src="front/img/payment-method.png" alt="">
